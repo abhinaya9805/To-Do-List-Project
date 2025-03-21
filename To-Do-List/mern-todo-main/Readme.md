@@ -1,5 +1,5 @@
 
-# MERN Todo App
+# MERN To-Do App
 A To-Do App is a simple task management application that helps users add, edit, delete, and mark tasks as completed.
 
 ## Features
